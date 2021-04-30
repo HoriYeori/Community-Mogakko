@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\모각코 Day 2">
       <UniqueIdentifier>{8da72e45-6586-4183-8713-52e8aa36fa00}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모각코 Day 3">
+      <UniqueIdentifier>{be5871ee-8ec5-479e-a32f-8b25c883f5f8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="모각코1-1.cpp">
@@ -29,6 +32,15 @@
     </ClCompile>
     <ClCompile Include="모각코2-1.cpp">
       <Filter>소스 파일\모각코 Day 2</Filter>
+    </ClCompile>
+    <ClCompile Include="모각코2-2.cpp">
+      <Filter>소스 파일\모각코 Day 2</Filter>
+    </ClCompile>
+    <ClCompile Include="모각코3-1.cpp">
+      <Filter>소스 파일\모각코 Day 3</Filter>
+    </ClCompile>
+    <ClCompile Include="모각코3-2.cpp">
+      <Filter>소스 파일\모각코 Day 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
