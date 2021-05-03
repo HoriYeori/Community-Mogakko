@@ -13,14 +13,17 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\모각코 Day 1">
-      <UniqueIdentifier>{6d77b6d4-593e-4824-ad75-00d0d14375f2}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\모각코 Day 2">
       <UniqueIdentifier>{8da72e45-6586-4183-8713-52e8aa36fa00}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모각코 Day 4">
+      <UniqueIdentifier>{31b1abef-f392-42a0-a88c-96c965a7ffe5}</UniqueIdentifier>
+    </Filter>
     <Filter Include="소스 파일\모각코 Day 3">
       <UniqueIdentifier>{be5871ee-8ec5-479e-a32f-8b25c883f5f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\모각코 Day 1">
+      <UniqueIdentifier>{6d77b6d4-593e-4824-ad75-00d0d14375f2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -41,6 +44,12 @@
     </ClCompile>
     <ClCompile Include="모각코3-2.cpp">
       <Filter>소스 파일\모각코 Day 3</Filter>
+    </ClCompile>
+    <ClCompile Include="모각코4-1.cpp">
+      <Filter>소스 파일\모각코 Day 4</Filter>
+    </ClCompile>
+    <ClCompile Include="모각코4-2.cpp">
+      <Filter>소스 파일\모각코 Day 4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
